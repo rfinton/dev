@@ -32,7 +32,7 @@ html, body {
 
 body {
   &:has(.home) {
-    background: linear-gradient(#000000ff, #00000066), url('assets/screen_1.png') center / cover no-repeat;
+    background: linear-gradient(#000000ff, #00000066), url('assets/cold_001.webp') center / cover no-repeat;
   }
 
   &:has(.bio) {
